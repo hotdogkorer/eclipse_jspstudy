@@ -9,11 +9,10 @@
 <body>
 
 <%
-   String str="홍길동";
+   String str="태스트";
    out.println("<h1>str=>"+str+"</h1>");
    System.out.println("str");
 %>
-<%=str%>
 <hr>
 str의 값 출력 =<%=str%>
 
