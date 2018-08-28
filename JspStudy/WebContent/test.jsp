@@ -13,6 +13,6 @@
    out.println("<h1>str=>"+str+"</h1>");
    System.out.println("str");
 %>
-
+<%=str%>
 </body>
 </html>
