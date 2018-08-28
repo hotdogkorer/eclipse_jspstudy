@@ -7,9 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <%
    String str="태스트";
    out.println("<h1>str=>"+str+"</h1>");
+   System.out.println("str");
+   
 %>
 
 </body>
