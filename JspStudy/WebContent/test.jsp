@@ -9,10 +9,13 @@
 <body>
 
 <%
-   String str="태스트";
+   String str="홍길동";
    out.println("<h1>str=>"+str+"</h1>");
    System.out.println("str");
 %>
 <%=str%>
+<hr>
+str의 값 출력 =<%=str%>
+
 </body>
 </html>
